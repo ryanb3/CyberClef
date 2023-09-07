@@ -1,4 +1,4 @@
-# Grooveberry Pi: A Flavor-Packed Symphony 🎶🍓
+# Grooveberry Pi: A Web-Hosted Interactive Synthesizer, Packed with Flavor! 🎶🍓
 
 Welcome to **Grooveberry Pi**, where the enchanting realm of sound collides with the vibrant world of orchards. Dive into a unique musical experience, blending the lofi universe with the tantalizing tastes of fruits. Every note you hear is a fruit – be it sweet, sour, tangy, or anything in between. Here, you're not just a listener; you're a chef, crafting your very own fruit salad of lofi beats.
 
